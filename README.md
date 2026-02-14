@@ -10,6 +10,10 @@
 
 </br>
 
+![Algebra](https://github.com/user-attachments/assets/5f3220e7-9235-4cb9-aefc-f1b7a37a0b56)
+
+</br>
+
 In mathematics and computer science, computer algebra, also called symbolic computation or algebraic computation, is a scientific area that refers to the study and development of algorithms and software for manipulating mathematical expressions and other mathematical objects. Although computer algebra could be considered a subfield of scientific computing, they are generally considered as distinct fields because scientific computing is usually based on numerical computation with approximate floating point numbers, while symbolic computation emphasizes exact computation with expressions containing variables that have no given value and are manipulated as symbols.
 
 
