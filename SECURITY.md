@@ -9,6 +9,7 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: Archimedean prime number spiral |
 | 1.0.x   | :white_check_mark: ASM Calculator |
+| 1.0.x   | :white_check_mark: ASM Prime Calculator |
 
 ## Reporting a Vulnerability
 
