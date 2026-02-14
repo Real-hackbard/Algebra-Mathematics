@@ -1,4 +1,4 @@
-# Algebra-Methematics
+# Algebra-Mathematics
 
 </br>
 
