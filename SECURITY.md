@@ -10,6 +10,8 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Archimedean prime number spiral |
 | 1.0.x   | :white_check_mark: ASM Calculator |
 | 1.0.x   | :white_check_mark: ASM Prime Calculator |
+| 1.0.x   | :white_check_mark: Divisor Sequence |
+| 1.0.x   | :white_check_mark: Egyptian Dissection |
 
 ## Reporting a Vulnerability
 
