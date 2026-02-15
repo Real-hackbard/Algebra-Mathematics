@@ -26,5 +26,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Egyptian Dissection](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Egyptian%20Dissection)
 * [Factoring Polynomial](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Factoring%20Polynomial)
 * [Eulers number (e)](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Eulers%20number%20(e))
+* [Pells Equation](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Pells%20Equation)
 
 
