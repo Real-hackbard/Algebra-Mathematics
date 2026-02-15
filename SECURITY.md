@@ -13,6 +13,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Divisor Sequence |
 | 1.0.x   | :white_check_mark: Egyptian Dissection |
 | 1.0.x   | :white_check_mark: Factoring Polynomial |
+| 1.0.x   | :white_check_mark: Eulers number (e) |
 
 ## Reporting a Vulnerability
 
