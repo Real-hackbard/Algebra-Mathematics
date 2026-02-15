@@ -24,5 +24,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [ASM Prime Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/ASM%20Prime%20Calculator)
 * [Divisor Sequence](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Divisor%20Sequence)
 * [Egyptian Dissection](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Egyptian%20Dissection)
+* [Factoring Polynomial](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Factoring%20Polynomial)
 
 
