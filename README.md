@@ -25,5 +25,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Divisor Sequence](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Divisor%20Sequence)
 * [Egyptian Dissection](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Egyptian%20Dissection)
 * [Factoring Polynomial](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Factoring%20Polynomial)
+* [Eulers number (e)](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Eulers%20number%20(e))
 
 
