@@ -20,6 +20,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Written Multiplication |
 | 1.0.x   | :white_check_mark: Fractional Calculation |
 | 1.0.x   | :white_check_mark: Find Calculation Method |
+| 1.0.x   | :white_check_mark: Zeroing |
 
 ## Reporting a Vulnerability
 
