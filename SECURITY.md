@@ -18,6 +18,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Palindrom searcher |
 | 1.0.x   | :white_check_mark: Lonely Prime Numbers |
 | 1.0.x   | :white_check_mark: Written Multiplication |
+| 1.0.x   | :white_check_mark: Fractional Calculation |
 
 ## Reporting a Vulnerability
 
