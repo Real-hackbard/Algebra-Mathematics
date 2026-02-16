@@ -28,5 +28,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Eulers number (e)](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Eulers%20number%20(e))
 * [Pells Equation](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Pells%20Equation)
 * [Palindrom searcher](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Palindrom%20searcher)
+* [Lonely Prime Numbers](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Lonely%20Prime%20Numbers)
 
 
