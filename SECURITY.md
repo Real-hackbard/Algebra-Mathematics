@@ -15,6 +15,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Factoring Polynomial |
 | 1.0.x   | :white_check_mark: Eulers number (e) |
 | 1.0.x   | :white_check_mark: Pells Equation (e) |
+| 1.0.x   | :white_check_mark: Palindrom searcher (e) |
 
 ## Reporting a Vulnerability
 
