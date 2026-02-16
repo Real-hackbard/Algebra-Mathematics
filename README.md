@@ -32,5 +32,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Written Multiplication](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Written%20Multiplication)
 * [Fractional Calculation](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Fractional%20Calculation)
 * [Find Calculation Method](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Find%20Calculation%20Method)
+* [Zeroing](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Zeroing)
 
 
