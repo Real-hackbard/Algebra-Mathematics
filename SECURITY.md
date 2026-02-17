@@ -23,6 +23,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Zeroing |
 | 1.0.x   | :white_check_mark: Circular involute |
 | 1.0.x   | :white_check_mark: Schickards Calculating |
+| 1.0.x   | :white_check_mark: Factoring number |
 
 ## Reporting a Vulnerability
 
