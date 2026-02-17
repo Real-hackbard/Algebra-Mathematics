@@ -22,6 +22,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Find Calculation Method |
 | 1.0.x   | :white_check_mark: Zeroing |
 | 1.0.x   | :white_check_mark: Circular involute |
+| 1.0.x   | :white_check_mark: Schickards Calculating |
 
 ## Reporting a Vulnerability
 
