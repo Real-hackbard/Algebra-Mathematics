@@ -34,5 +34,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Find Calculation Method](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Find%20Calculation%20Method)
 * [Zeroing](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Zeroing)
 * [Circular involute](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Circular%20involute)
+* [Schickards Calculating](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Schickards%20Calculating)
 
 
