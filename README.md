@@ -35,5 +35,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Zeroing](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Zeroing)
 * [Circular involute](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Circular%20involute)
 * [Schickards Calculating](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Schickards%20Calculating)
+* [Factoring number](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Factoring%20number)
 
 
