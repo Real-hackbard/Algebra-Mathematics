@@ -38,5 +38,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Factoring number](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Factoring%20number)
 * [Abacus Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Abacus%20Calculator)
 * [Calculating Stick](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Calculating%20Stick)
+* [Ellipsencycloid](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Ellipsencycloid)
 
 
