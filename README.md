@@ -39,5 +39,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Abacus Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Abacus%20Calculator)
 * [Calculating Stick](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Calculating%20Stick)
 * [Ellipsencycloid](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Ellipsencycloid)
+* [Mental arithmetic](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Mental%20arithmetic)
 
 
