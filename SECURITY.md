@@ -28,6 +28,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Calculating Stick |
 | 1.0.x   | :white_check_mark: Mental arithmetic |
 | 1.0.x   | :white_check_mark: Phase plot function |
+| 1.0.x   | :white_check_mark: Riemann Zeta function |
 
 ## Reporting a Vulnerability
 
