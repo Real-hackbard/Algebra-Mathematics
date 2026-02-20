@@ -42,5 +42,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Mental arithmetic](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Mental%20arithmetic)
 * [Phase plot function](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Phase%20plot%20function)
 * [Riemann Zeta function](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Riemann%20Zeta%20function)
+* [Conformal Illustrations](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Conformal%20Illustrations)
 
 
