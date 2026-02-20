@@ -29,6 +29,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Mental arithmetic |
 | 1.0.x   | :white_check_mark: Phase plot function |
 | 1.0.x   | :white_check_mark: Riemann Zeta function |
+| 1.0.x   | :white_check_mark: Conformal Illustrations |
 
 ## Reporting a Vulnerability
 
