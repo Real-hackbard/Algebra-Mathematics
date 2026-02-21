@@ -31,6 +31,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Riemann Zeta function |
 | 1.0.x   | :white_check_mark: Conformal Illustrations |
 | 1.0.x   | :white_check_mark: Bertrand-Experiment |
+| 1.0.x   | :white_check_mark: Pythagoras |
 
 ## Reporting a Vulnerability
 
