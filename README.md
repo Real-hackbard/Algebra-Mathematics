@@ -44,5 +44,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Riemann Zeta function](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Riemann%20Zeta%20function)
 * [Conformal Illustrations](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Conformal%20Illustrations)
 * [Bertrand-Experiment](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Bertrand-Experiment)
+* [Pythagoras](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Pythagoras)
 
 
