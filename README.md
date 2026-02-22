@@ -46,5 +46,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Bertrand-Experiment](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Bertrand-Experiment)
 * [Pythagoras](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Pythagoras)
 * [Calender Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Calender%20Calculator)
+* [Lissajou Figures](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Lissajou%20Figures)
 
 
