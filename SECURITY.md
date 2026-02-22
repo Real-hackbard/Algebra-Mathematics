@@ -34,6 +34,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Pythagoras |
 | 1.0.x   | :white_check_mark: Calender Calculator |
 | 1.0.x   | :white_check_mark: Lissajou Figures |
+| 1.0.x   | :white_check_mark: Polygon Cycloid |
 
 ## Reporting a Vulnerability
 
