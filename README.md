@@ -48,5 +48,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Calender Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Calender%20Calculator)
 * [Lissajou Figures](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Lissajou%20Figures)
 * [Polygon Cycloid](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Polygon%20Cycloid)
+* [Interference Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Interference%20Calculator)
 
 
