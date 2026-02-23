@@ -39,6 +39,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Greatest Common Divisor |
 | 1.0.x   | :white_check_mark: Mondrian Calculator |
 | 1.0.x   | :white_check_mark: Elevation Set |
+| 1.0.x   | :white_check_mark: Mathematician Clock |
 
 ## Reporting a Vulnerability
 
