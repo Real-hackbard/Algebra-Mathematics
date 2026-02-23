@@ -37,6 +37,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Polygon Cycloid |
 | 1.0.x   | :white_check_mark: Interference Calculator |
 | 1.0.x   | :white_check_mark: Greatest Common Divisor |
+| 1.0.x   | :white_check_mark: Mondrian Calculator |
 
 ## Reporting a Vulnerability
 
