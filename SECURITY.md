@@ -36,6 +36,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Lissajou Figures |
 | 1.0.x   | :white_check_mark: Polygon Cycloid |
 | 1.0.x   | :white_check_mark: Interference Calculator |
+| 1.0.x   | :white_check_mark: Greatest Common Divisor |
 
 ## Reporting a Vulnerability
 
