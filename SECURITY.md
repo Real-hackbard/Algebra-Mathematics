@@ -40,6 +40,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Mondrian Calculator |
 | 1.0.x   | :white_check_mark: Elevation Set |
 | 1.0.x   | :white_check_mark: Mathematician Clock |
+| 1.0.x   | :white_check_mark: Sort numbers |
 
 ## Reporting a Vulnerability
 
