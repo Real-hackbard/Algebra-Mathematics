@@ -42,6 +42,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Mathematician Clock |
 | 1.0.x   | :white_check_mark: Sort numbers |
 | 1.0.x   | :white_check_mark: Litter Calculation |
+| 1.0.x   | :white_check_mark: Wator-Simulation |
 
 ## Reporting a Vulnerability
 
