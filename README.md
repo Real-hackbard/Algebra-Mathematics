@@ -54,5 +54,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Elevation Set](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Elevation%20Set)
 * [Mathematician Clock](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Mathematician%20Clock)
 * [Sort numbers](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Sort%20numbers)
+* [Litter Calculation](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Litter%20Calculation)
 
 
