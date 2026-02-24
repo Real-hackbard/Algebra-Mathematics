@@ -55,5 +55,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Mathematician Clock](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Mathematician%20Clock)
 * [Sort numbers](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Sort%20numbers)
 * [Litter Calculation](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Litter%20Calculation)
+* [Wator-Simulation](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Wator-Simulation)
 
 
