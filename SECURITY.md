@@ -44,6 +44,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Litter Calculation |
 | 1.0.x   | :white_check_mark: Wator-Simulation |
 | 1.0.x   | :white_check_mark: Jefferson Roller |
+| 1.0.x   | :white_check_mark: Reuleaux Wheels |
 
 ## Reporting a Vulnerability
 
