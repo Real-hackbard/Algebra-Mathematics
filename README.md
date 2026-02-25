@@ -57,5 +57,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Litter Calculation](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Litter%20Calculation)
 * [Wator-Simulation](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Wator-Simulation)
 * [Jefferson Roller](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Jefferson%20Roller)
+* [Reuleaux Wheels](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Reuleaux%20Wheels)
 
 
