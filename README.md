@@ -60,5 +60,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Reuleaux Wheels](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Reuleaux%20Wheels)
 * [Polygon Wheels](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Polygon%20Wheels)
 * [Parquet Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Parquet%20Calculator)
+* [Alan Turing Machine](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Alan%20Turing%20Machine)
 
 
