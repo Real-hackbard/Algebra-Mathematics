@@ -48,6 +48,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Polygon Wheels |
 | 1.0.x   | :white_check_mark: Parquet Calculator |
 | 1.0.x   | :white_check_mark: Alan Turing Machine |
+| 1.0.x   | :white_check_mark: Plasma Calculator |
 
 ## Reporting a Vulnerability
 
