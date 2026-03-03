@@ -62,5 +62,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Parquet Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Parquet%20Calculator)
 * [Alan Turing Machine](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Alan%20Turing%20Machine)
 * [Plasma Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Plasma%20Calculator)
+* [Recursion Money Exchange](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Recursion%20Money%20Exchange)
 
 
