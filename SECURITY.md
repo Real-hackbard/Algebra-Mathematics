@@ -50,6 +50,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Alan Turing Machine |
 | 1.0.x   | :white_check_mark: Plasma Calculator |
 | 1.0.x   | :white_check_mark: Recursion Money Exchange |
+| 1.0.x   | :white_check_mark: Optical illusions |
 
 ## Reporting a Vulnerability
 
