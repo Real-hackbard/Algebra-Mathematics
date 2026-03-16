@@ -64,5 +64,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Plasma Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Plasma%20Calculator)
 * [Recursion Money Exchange](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Recursion%20Money%20Exchange)
 * [Optical illusions](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Optical%20illusions)
+* [Sum Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Sum%20Calculator)
 
 
