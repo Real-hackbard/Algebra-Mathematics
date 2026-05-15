@@ -52,6 +52,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Recursion Money Exchange |
 | 1.0.x   | :white_check_mark: Optical illusions |
 | 1.0.x   | :white_check_mark: Sum Calculator |
+| 1.0.x   | :white_check_mark: Circle Calculations |
 
 ## Reporting a Vulnerability
 
