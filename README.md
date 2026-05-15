@@ -66,5 +66,6 @@ Software applications that perform symbolic calculations are called [computer al
 * [Optical illusions](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Optical%20illusions)
 * [Sum Calculator](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Sum%20Calculator)
 * [Magical Quader](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Magical%20Quader)
+* [Circle Calculations](https://github.com/Real-hackbard/Algebra-Mathematics/tree/main/Circle%20Calculations)
 
 
